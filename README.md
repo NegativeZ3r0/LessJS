@@ -16,6 +16,7 @@ just
 
 ```bash
 git clone https://github.com/NegativeZ3r0/LessJS.git
+cd LessJS
 npm run dev
 ```
 
