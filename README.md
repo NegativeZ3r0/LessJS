@@ -3,7 +3,7 @@
 ### Using crazy framework stack 
 
 - [facil.io](http://facil.io) a minimal backend framework for C
-- [htmx](https://htmx.org/) a html first ui framework which follows HATEOAS principle
+- [htmx](https://htmx.org/) a html first ui framework which follows [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS) principle
 
 ### How to use?
 
