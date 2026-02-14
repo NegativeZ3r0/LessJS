@@ -12,7 +12,7 @@ Dependancies:
 - make
 - npm
 
-just
+just do:
 
 ```bash
 git clone https://github.com/NegativeZ3r0/LessJS.git
@@ -20,5 +20,6 @@ cd LessJS
 npm install
 npm run dev
 ```
+(ignore the warnings :)
 
-go on http://localhost:3000
+then go on http://localhost:3000
