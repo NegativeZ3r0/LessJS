@@ -20,6 +20,6 @@ cd LessJS
 npm install
 npm run dev
 ```
-(ignore the warnings :)
+(ignore the warnings ;)
 
 then go on http://localhost:3000
