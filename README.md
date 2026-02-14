@@ -1,6 +1,6 @@
 ## Basic counter app
 
-### Using crazy framework stack 
+### Using unusual framework stack 
 
 - [facil.io](http://facil.io) a minimal backend framework for C
 - [htmx](https://htmx.org/) a html first ui framework which follows [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS) principle
