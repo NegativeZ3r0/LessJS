@@ -8,9 +8,9 @@
 ### How to use?
 
 Dependancies:
-- gcc
-- make
-- npm
+- [gcc](https://gcc.gnu.org/)
+- [make](https://www.gnu.org/software/make/)
+- [npm](https://docs.npmjs.com/about-npm)
 
 just do:
 
